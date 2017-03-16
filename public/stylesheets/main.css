@@ -1,0 +1,35 @@
+body {
+  font-family: sans-serif;
+}
+
+
+.listing_container{
+  width:50%;
+}
+
+.album_listing {
+  border-bottom: 0.5px solid grey;
+  list-style: none;
+  text-align: left;
+  width: 100%;
+  display: inline-block;
+  margin-top: 1%;
+}
+
+.album_listing img{
+  width: 20%;
+}
+
+.album_listing h2, h3{
+  display:inline;
+  margin-left: 5px;
+}
+
+/*.album_listing img {
+  //width: 20%;
+  //height: 20%;
+  //display: inline-block;
+  //float: left;
+  //margin-left: 10%;
+  //margin-bottom: 1%
+}*/
